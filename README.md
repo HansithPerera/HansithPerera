@@ -1,8 +1,8 @@
 ## Hi, I'm Hans 
 
 🧠 I would describe myself as a programmer,a flowgrammer and a vibe coder.<br>
-💻 Passionate about building web applications, analyzing data, and learning new technologies.<br>
-📚 Currently working with JavaScript, Python, Node.js, React.js, PostgreSQL, and more.<br>
+💻 Passionate about building web applications, optimizing workflows and learning new technologies.<br>
+📚 Currently working with dotnet, typecript, firebase, n8n and more.<br>
 🚀 I'm building projects to sharpen my skills and contribute to the open-source community.<br>
 🔥 On the side, I’m also into photography and manhwa😇<br>
 
