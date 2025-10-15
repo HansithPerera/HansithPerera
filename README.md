@@ -1,6 +1,6 @@
 ## Hi, I'm Hans 
 
-🧠 I'm a Computer Science student majoring in Software Development and Data Science.<br>
+🧠 I would describe myself as a programmer/flowgrammer/vibe coder.<br>
 💻 Passionate about building web applications, analyzing data, and learning new technologies.<br>
 📚 Currently working with JavaScript, Python, Node.js, React.js, PostgreSQL, and more.<br>
 🚀 I'm building projects to sharpen my skills and contribute to the open-source community.<br>
